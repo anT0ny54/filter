@@ -2,6 +2,7 @@ name: Update Blocklist
 on:
   push:
     paths-ignore:
+    - '.github/**'
     - 'lists/**'
     - '*.txt'
     - '*.yaml'
