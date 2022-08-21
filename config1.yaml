@@ -17,7 +17,13 @@ block_lists:
   -
     url: https://adaway.org/hosts.txt
   -
+    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+  -
+    url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
+  -
     url: https://block.energized.pro/bluGo/formats/domains.txt
+  -
+    url: https://block.energized.pro/porn/formats/domains.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
@@ -27,9 +33,17 @@ block_lists:
   -
     url: https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
   -
+    url: https://blocklistproject.github.io/Lists/drugs.txt
+  -
+    url: https://blocklistproject.github.io/Lists/gambling.txt
+  -
+    url: https://blocklistproject.github.io/Lists/vaping.txt
+  -
     url: https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
   -
     url: https://dbl.oisd.nl/basic/
+  -
+    url: https://dbl.oisd.nl/nsfw
   -
     url: https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
   -
@@ -53,7 +67,27 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
   -
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+  -
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+  -
     url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/brijrajparmar27/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta-snuff/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/sinfonietta/hosts
+  -
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/tiuxo/hosts
+  -
+    url: https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist.txt
   -
     url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
   -
@@ -61,7 +95,13 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/dating/domains
+  -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/doh/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/drugs/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/malware/domains
   -
@@ -76,6 +116,8 @@ block_lists:
     url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   -
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+  -
+    url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
   -
     url: https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
   -
@@ -111,6 +153,8 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
   -
+    url: https://raw.githubusercontent.com/t0ny54/core/main/blacklist.txt
+  -
     url: https://rescure.me/rescure_domain_blacklist.txt
   -
     url: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -124,12 +168,6 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/core/main/blacklist.txt
-  -
-    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-  -
-    url: https://raw.githubusercontent.com/t0ny54/agh/main/blocklist.txt
 
 # list of domains to remove from the lists
 allow:
