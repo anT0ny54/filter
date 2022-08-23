@@ -166,6 +166,8 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+  -
+    url: https://raw.githubusercontent.com/anT0ny54/core/main/blacklist.txt
 
 # list of domains to remove from the lists
 allow:
