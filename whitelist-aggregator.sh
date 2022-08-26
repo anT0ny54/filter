@@ -508,7 +508,10 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/whatsapp" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/xboxlive" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube" \
-                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/zoom"
+                "https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/zoom" \
+                "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt" \
+                "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt" \
+                "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
