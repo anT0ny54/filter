@@ -456,11 +456,7 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains" \
                 "https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains" \
                 "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt" \
-                "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt" \
-                "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt" \
                 "https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list" \
-                "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-INACTIVE.txt" \
-                "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" \
                 "https://raw.githubusercontent.com/t0ny54/whitelist/main/whitelist.txt" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/child/domains" \
                 "https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains" \
