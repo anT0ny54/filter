@@ -21,8 +21,6 @@ block_lists:
   -
     url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
   -
-    url: https://block.energized.pro/bluGo/formats/domains.txt
-  -
     url: https://block.energized.pro/porn/formats/domains.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
