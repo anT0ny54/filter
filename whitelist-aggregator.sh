@@ -514,7 +514,8 @@ fetch_domains_comments \
                 "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt" \
                 "https://raw.githubusercontent.com/t0ny54/deadhosts/main/inactive.txt" \
                 "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt" \
-                "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt"
+                "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt" \
+                "https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt"
 
 sanitize_domain_list > "$OUT_FILE"
 
