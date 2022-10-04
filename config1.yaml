@@ -103,8 +103,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
   -
-    url: https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls.txt
-  -
     url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   -
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
