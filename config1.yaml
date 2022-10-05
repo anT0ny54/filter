@@ -166,6 +166,16 @@ block_lists:
     url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
   -
     url: https://raw.githubusercontent.com/nikolaischunk/discord-phishing-links/main/txt/domain-list.txt
+  -
+    url: https://raw.githubusercontent.com/kowith337/ThaiConsentHosts/master/ThaiConsentHosts.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/general.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware-malicious.txt
+  -
+    url: https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
 # list of domains to remove from the lists
 allow:
