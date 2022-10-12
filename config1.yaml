@@ -67,8 +67,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
   -
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
-  -
     url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/brijrajparmar27/hosts
   -
     url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
