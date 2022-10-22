@@ -157,8 +157,6 @@ block_lists:
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
   -
-    url: https://raw.githubusercontent.com/anT0ny54/core/main/blacklist.txt
-  -
     url: https://raw.githubusercontent.com/kaythomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt
   -
     url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
