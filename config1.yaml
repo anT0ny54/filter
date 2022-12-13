@@ -55,10 +55,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
   -
-    url: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/domainsonly
-  -
-    url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-  -
     url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
   -
     url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
@@ -78,8 +74,6 @@ block_lists:
     url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/tiuxo/hosts
   -
     url: https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist.txt
-  -
-    url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
   -
     url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
   -
@@ -156,8 +150,6 @@ block_lists:
     url: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   -
     url: https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-  -
-    url: https://raw.githubusercontent.com/kaythomas0/CryptoScamDB-Lists/master/cryptoscamdb-blocklist.txt
   -
     url: https://raw.githubusercontent.com/ThioJoe/YT-Spam-Lists/main/SpamDomainsList.txt
   -
