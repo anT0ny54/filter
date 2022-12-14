@@ -19,8 +19,6 @@ block_lists:
   -
     url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
   -
-    url: https://block.energized.pro/porn/formats/domains.txt
-  -
     url: https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt
   -
     url: https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
@@ -98,8 +96,6 @@ block_lists:
     url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
   -
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-  -
-    url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
   -
     url: https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
   -
