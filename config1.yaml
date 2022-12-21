@@ -73,8 +73,6 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/anT0ny54/adguard/main/blocklist.txt
   -
-    url: https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-  -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/dating/domains
