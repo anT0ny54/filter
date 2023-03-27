@@ -35,7 +35,7 @@ block_lists:
   -
     url: https://blokada.org/mirror/v5/exodusprivacy/standard/hosts.txt
   -
-    url: https://dbl.oisd.nl/nsfw
+    url: https://nsfw.oisd.nl
   -
     url: https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
   -
