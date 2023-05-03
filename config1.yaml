@@ -15,11 +15,11 @@ block_lists:
   # -
   #   url: http://www.malwaredomainlist.com/hostslist/hosts.txt
   -
-    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist.txt
+    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/export/blocklist_all_zero.txt
   -
-    url: https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist.txt
+    url: https://raw.githubusercontent.com/t0ny54/adultfilterwithregex/main/export/blocklist_all_zero.txt
   -
-    url: https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist.txt
+    url: https://raw.githubusercontent.com/t0ny54/blocklistfamilywithregex/main/export/blocklist_all_zero.txt
 
 # list of domains to remove from the lists
 allow:
